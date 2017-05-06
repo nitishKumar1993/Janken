@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 79b057428f1e34e47844a2f1e3c61f5b
+timeCreated: 1478705493
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rock victory
+    21300002: Rock A
+    21300004: Paper A
+    21300006: Scissor A
+    21300008: Spritesheet 02_4
+    21300010: Spritesheet 02_5
+    21300012: Spritesheet 02_6
+    21300014: Rock B
+    21300016: Paper B
+    21300018: Scissor B
+    21300020: Spritesheet 02_10
+    21300022: Spritesheet 02_11
+    21300024: Spritesheet 02_12
+    21300026: Spritesheet 02_13
+    21300028: Spritesheet 02_14
+    21300030: Spritesheet 02_15
+    21300032: Spritesheet 02_16
+    21300034: Spritesheet 02_17
+    21300036: paper victory
+    21300038: Rock C
+    21300040: Paper C
+    21300042: Scissor C
+    21300044: Spritesheet 02_22
+    21300046: Spritesheet 02_23
+    21300048: Spritesheet 02_24
+    21300050: scissor victory
+    21300052: kill splash
+    21300054: Spritesheet 02_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rock victory
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3600
+        width: 402
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rock A
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3894
+        width: 534
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paper A
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3888
+        width: 534
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scissor A
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 3892
+        width: 530
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_4
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 3840
+        width: 310
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_5
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 4004
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_6
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 3646
+        width: 600
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rock B
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3662
+        width: 532
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paper B
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 3662
+        width: 530
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scissor B
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 3664
+        width: 534
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_10
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 3842
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_11
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 3704
+        width: 486
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_12
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 3716
+        width: 192
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_13
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 3828
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_14
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 3800
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_15
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 3786
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_16
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 3748
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_17
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 3746
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: paper victory
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3128
+        width: 340
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rock C
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3426
+        width: 532
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Paper C
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 3426
+        width: 532
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scissor C
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 3416
+        width: 530
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_22
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 3232
+        width: 590
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_23
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 3282
+        width: 434
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_24
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 3184
+        width: 548
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor victory
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2748
+        width: 340
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: kill splash
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3058
+        width: 522
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spritesheet 02_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2710
+        width: 134
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

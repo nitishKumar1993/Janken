@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerScripts\SyncPlayer.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerScripts\LocalPlayerSetup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIScripts\GameHUD.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScripts\LocalPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScripts\SyncPlayer.cs" Line="46" Column="2" />
+      <File FileName="Assets\Scripts\PlayerScripts\Launcher.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIScripts\MainMenuUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIScripts\CountDown.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScripts\PowersManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIScripts\KillingPopup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScripts\CharacterManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIScripts\RespawnScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScripts\PowerInfo.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScripts\PlayerCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScripts\Powers.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIScripts\GameOverHUD.cs" Line="20" Column="2" />
+      <File FileName="Assets\Scripts\UIScripts\Scoreboard.cs" Line="330" Column="10" />
+      <File FileName="Assets\Scripts\Tutorial.cs" Line="98" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
